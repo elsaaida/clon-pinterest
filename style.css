@@ -11,7 +11,7 @@ body{
 }
 /* comentario en css, solo cambia el formatito, pero el cmd es el mimso jijí */
 header nav{
-    width: 98vw;
+    width: 100vw;
     height: 80px;
     font-size: 16px;
     background-color: white;
