@@ -1,5 +1,5 @@
 *{
-    margin: 4px; 
+    margin: 0px; 
     padding: 0;
     border: box;
 }
@@ -92,6 +92,7 @@ header nav{
 .contenido{
     position: absolute;
     margin-top: 80px;
+    margin-left: 1.5%;
 }
 .images{
     columns: 5 270px;
